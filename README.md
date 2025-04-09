@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy! I am Atharva Joshi , a Third Year Computer Science student at VIIT Pune .<br><br>🔭<b> I’m currently working on :</b><br>A Full Stack AI SaaS Web App With Authentication In NextJS 15, Stripe, TypeScript, TailwindCSS<br>👯<b> I’m looking to collaborate on :</b><br>Full Stack and AI Projects<br>🤝 <b>I’m looking for help with :</b>  DevOps<br>🌱 <b>I’m currently learning :</b> <br>  NextJS and kubernetes<br><br>⚡<b> Fun fact :</b> I love riding bikes.
+Heyy! I am Atharva Joshi , a Third Year Computer Science student at VIIT Pune .<br><br>🔭<b> I’m currently working on Generative AI <br>👯<b> I’m looking to collaborate on :</b><br>Full Stack and AI Projects<br>🤝 <b>I’m looking for help with :</b>  DevOps<br>🌱 <b>I’m currently learning :</b> <br>  GenAI and DvOps<br><br>⚡<b> Fun fact :</b> I love riding bikes.
 
 
 ## 🌐 Socials:
